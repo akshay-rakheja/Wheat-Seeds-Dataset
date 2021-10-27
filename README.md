@@ -10,7 +10,7 @@ Dataset 2 - Covid-19 Outcomes in Ontario
 
 Dataset 2 is about the confirmed COVID-19 cases in Ontario. The original data comes from the following
 confirmed positive cases of COVID19 in Ontario" at: https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario
-We will be using the features age group, gender, case acquisition info, city, outbreak, latitude, and longitude. 
+I will be using the features: age group, gender, case acquisition info, city, outbreak, latitude, and longitude. 
 
 ### Goals
 1. Classify the data using three tree-based classifiers: Decision Trees, Random Forests and Gradient Tree Boosting. Tune the hyper-parameters of the classifier
