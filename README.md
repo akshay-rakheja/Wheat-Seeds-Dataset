@@ -11,3 +11,7 @@ using 10-fold cross validation and sklearn functions. Evaluate the best value fo
 3. Classify the data using the Naive Bayes Classifier
 4. Tune the hyper-parameters of the classifier using 10-fold cross valida-tion and sklearn functions.Evaluate the best value for the var smoothing among the values {1e-10, 1e-
 9, 1e-5, 1e-3, 1e-1}
+
+### Results and analysis
+
+The results and analysis can be found inside the python notebook files. 
