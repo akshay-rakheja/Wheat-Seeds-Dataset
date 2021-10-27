@@ -9,7 +9,7 @@ Dataset 2 is about the confirmed COVID-19 cases in Ontario. The original data co
 confirmed positive cases of COVID19 in Ontario" at: https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario
 We will be using the features age group, gender, case acquisition info, city, outbreak, latitude, and longitude. 
 
-###Goal
-
-Goal is to classify the data using three tree-based classifiers: Decision Trees, Random Forests and Gradient Tree Boosting. Tune the hyper-parameters of the classifier
+### Goals
+1. Classify the data using three tree-based classifiers: Decision Trees, Random Forests and Gradient Tree Boosting. Tune the hyper-parameters of the classifier
 using 10-fold cross validation and sklearn functions. Evaluate the best value for the number of trees and maximum depth of trees.
+2. Across both datasets, compare and contrast the performance of the three approaches and point out any interesting patterns.
