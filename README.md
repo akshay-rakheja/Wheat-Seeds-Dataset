@@ -1,10 +1,13 @@
 # Tree-Based-Classifiers
 
 Dataset 1 - Wheat Seeds
+
 This small dataset is the UCI Seeds Data set (https://archive.ics.uci.edu/ml/datasets/seeds). The examined group comprised kernels belonging
 to three different varieties of wheat: Kama, Rosa and Canadian. These are the labels. There are 70 elements for each variety of wheat, randomly selected
 for the experiment.
+
 Dataset 2 - Covid-19 Outcomes in Ontario
+
 Dataset 2 is about the confirmed COVID-19 cases in Ontario. The original data comes from the following
 confirmed positive cases of COVID19 in Ontario" at: https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario
 We will be using the features age group, gender, case acquisition info, city, outbreak, latitude, and longitude. 
